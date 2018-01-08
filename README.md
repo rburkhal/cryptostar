@@ -1,9 +1,9 @@
-Monacoin Core integration/staging tree
+CryptoStar coin Core integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/monacoinproject/monacoin.svg?branch=master)](https://travis-ci.org/monacoinproject/monacoin)
 
-https://monacoin.org
+https://cryptostar.org
 
 What is Monacoin?
 ----------------
